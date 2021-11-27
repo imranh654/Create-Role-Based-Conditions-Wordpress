@@ -1,3 +1,5 @@
+<?php
+
 function is_shop_manager() {
     $user = wp_get_current_user();
 
